@@ -1,1 +1,1 @@
-# Haskell-hello-word
+# First programm on Haskell
