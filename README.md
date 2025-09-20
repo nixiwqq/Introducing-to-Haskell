@@ -11,7 +11,7 @@ This repository demonstrates my ability to:
 
 ---
 
-## 🌟 Why This Project Matters
+## Why This Project Matters
 This project demonstrates my:
 - **Quick Learning Abilities**: I self-taught Haskell and implemented foundational concepts within a short timeframe.
 - **Code Quality**: By leveraging Haskell’s type system, I avoided common bugs and implemented concise, reliable solutions.
@@ -19,7 +19,7 @@ This project demonstrates my:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - **`src/`**: Main Haskell source files, showcasing examples like recursion, type classes, and pattern matching.
 - **`exercises/`**: Hands-on problems for deepening understanding of functional programming.
 - **`docs/`**: Learning notes and documentation for Haskell concepts.
@@ -27,7 +27,7 @@ This project demonstrates my:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **GHC (Glasgow Haskell Compiler)**: Version 9.0 or higher.
