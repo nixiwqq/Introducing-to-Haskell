@@ -19,7 +19,7 @@ This project demonstrates my:
 
 ---
 
-## Project Structure
+##  Project Structure
 - **`src/`**: Main Haskell source files, showcasing examples like recursion, type classes, and pattern matching.
 - **`exercises/`**: Hands-on problems for deepening understanding of functional programming.
 - **`docs/`**: Learning notes and documentation for Haskell concepts.
