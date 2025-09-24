@@ -1,4 +1,4 @@
-# Introducing to Haskell
+#  Introducing to Haskell
 
 ![Haskell Logo](https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg)
 
